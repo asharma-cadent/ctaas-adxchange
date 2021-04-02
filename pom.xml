@@ -13,6 +13,11 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
+	<scm>
+		<connection>scm:git:https://github.com/asharma-cadent/ctaas-adxchange.git</connection>
+		<url>https://github.com/asharma-cadent/ctaas-adxchange.git</url>
+		<developerConnection>scm:git:https://github.com/asharma-cadent/ctaas-adxchange.git</developerConnection>
+	</scm>
 	<dependencies>
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
